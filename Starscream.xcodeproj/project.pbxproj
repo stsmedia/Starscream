@@ -443,7 +443,7 @@
 				PROVISIONING_PROFILE = "";
 				SDKROOT = appletvos9.0;
 				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "appletvsimulator appletvos";
+				SUPPORTED_PLATFORMS = "appletvsimulator appletvos tvos";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -468,7 +468,7 @@
 				PROVISIONING_PROFILE = "";
 				SDKROOT = appletvos9.0;
 				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "appletvsimulator appletvos";
+				SUPPORTED_PLATFORMS = "appletvsimulator appletvos tvos";
 			};
 			name = Release;
 		};
